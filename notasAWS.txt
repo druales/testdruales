@@ -11,15 +11,6 @@ https://login.ubitslearning.com/login?state=hKFo2SAzYVh4U3kzbTRLMGc1UHRGbzE3ck9D
 CURSO AWS - UDEMY
 https://blockstellart.com/aws-cloud-practitioner/
 
-
-https://druales.signin.aws.amazon.com/console
-
-AccountID: 557942397186 (cuenta padre root)  
-vizcarram -> MartinAlejo2019@
-ACCESS KEY
-AKIAYDZ7VLEBNWYUONFY=>8LGronoiYOPLywEFJ/jznm0d1thjfCV9BKU4FfcJ
-
-
 Conectarse a una maquina virtual Linux con KeyPairDR.pem
 ssh -i "KeyPairDR.pem" ec2-user@ec2-3-94-253-124.compute-1.amazonaws.com
 
